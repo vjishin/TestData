@@ -1,0 +1,19 @@
+{
+  "programs": [
+    {
+      "programName": "Condition Coaching only",
+      "programDescription": "Condition Coaching only",
+      "programCode": "HealthYourWay-80",
+      "activityDuration": "30"
+    },
+    {
+      "programName": "Lifestyle Coaching only",
+      "programDescription": "Lifestyle Coaching only",
+      "programCode": "HealthYourWay-86",
+      "activityDuration": "30"
+    }
+  ],
+  "timezoneCode": "ET",
+  "returnCode": "200",
+  "returnMessage": ""
+}
